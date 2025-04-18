@@ -1,0 +1,14 @@
+{
+  "name": "k_dosi",
+  "title": "Journey to Stormwreck Isle",
+  "description": "Kiera's Faerûn campaign for Foundry VTT.",
+  "version": "1.0.0",
+  "author": "Kiera",
+  "system": "dnd5e",
+  "coreVersion": "12",
+  "url": "https://github.com/dayison68/Foundry_KDoSI",
+  "manifest": "https://raw.githubusercontent.com/dayison68/Foundry_KDoSI/main/world.json",
+  "download": "https://github.com/dayison68/foundryvtt-k_dosi/releases/latest/download/K_DoSI_2025_04_18.zip",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12"
+}
